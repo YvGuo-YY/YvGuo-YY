@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YvGuo-YY&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?YvGuo-YY&layout=compact&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YvGuo-YY&layout=compact&theme=onedark" />
 </a>
 <!---
 YvGuo-YY/YvGuo-YY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
